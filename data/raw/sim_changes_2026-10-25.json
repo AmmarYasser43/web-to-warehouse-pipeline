@@ -1,0 +1,910 @@
+{
+    "price_changed": [
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-vacationers_863/index.html",
+            "Title": "The Vacationers",
+            "old_price": 42.15,
+            "new_price": 37.42
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/dear-mr-knightley_684/index.html",
+            "Title": "Dear Mr. Knightley",
+            "old_price": 11.21,
+            "new_price": 10.42
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-great-gatsby_498/index.html",
+            "Title": "The Great Gatsby",
+            "old_price": 36.05,
+            "new_price": 39.92
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-white-queen-the-cousins-war-1_768/index.html",
+            "Title": "The White Queen (The Cousins' War #1)",
+            "old_price": 25.91,
+            "new_price": 21.31
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html",
+            "Title": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+            "old_price": 25.37,
+            "new_price": 28.64
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/dracula_150/index.html",
+            "Title": "Dracula",
+            "old_price": 52.62,
+            "new_price": 59.04
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/keep-me-posted_594/index.html",
+            "Title": "Keep Me Posted",
+            "old_price": 20.46,
+            "new_price": 19.65
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/a-fierce-and-subtle-poison_875/index.html",
+            "Title": "A Fierce and Subtle Poison",
+            "old_price": 28.13,
+            "new_price": 23.25
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/fire-bound-sea-havensisters-of-the-heart-5_157/index.html",
+            "Title": "Fire Bound (Sea Haven/Sisters of the Heart #5)",
+            "old_price": 21.28,
+            "new_price": 24.8
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/shadow-rites-jane-yellowrock-10_51/index.html",
+            "Title": "Shadow Rites (Jane Yellowrock #10)",
+            "old_price": 21.72,
+            "new_price": 22.3
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-girl-who-played-with-fire-millennium-trilogy-2_249/index.html",
+            "Title": "The Girl Who Played with Fire (Millennium Trilogy #2)",
+            "old_price": 22.14,
+            "new_price": 24.07
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/please-kill-me-the-uncensored-oral-history-of-punk_537/index.html",
+            "Title": "Please Kill Me: The Uncensored Oral History of Punk",
+            "old_price": 31.19,
+            "new_price": 27.6
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/finders-keepers-bill-hodges-trilogy-2_807/index.html",
+            "Title": "Finders Keepers (Bill Hodges Trilogy #2)",
+            "old_price": 53.53,
+            "new_price": 53.51
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/secrets-and-lace-fatal-hearts-1_829/index.html",
+            "Title": "Secrets and Lace (Fatal Hearts #1)",
+            "old_price": 20.27,
+            "new_price": 23.39
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/having-the-barbarians-baby-ice-planet-barbarians-75_23/index.html",
+            "Title": "Having the Barbarian's Baby (Ice Planet Barbarians #7.5)",
+            "old_price": 34.96,
+            "new_price": 36.96
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/little-red_817/index.html",
+            "Title": "Little Red",
+            "old_price": 13.47,
+            "new_price": 11.55
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-argonauts_837/index.html",
+            "Title": "The Argonauts",
+            "old_price": 10.93,
+            "new_price": 9.35
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-love-and-lemons-cookbook-an-apple-to-zucchini-celebration-of-impromptu-cooking_849/index.html",
+            "Title": "The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking",
+            "old_price": 37.6,
+            "new_price": 41.28
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-great-railway-bazaar_446/index.html",
+            "Title": "The Great Railway Bazaar",
+            "old_price": 30.54,
+            "new_price": 31.02
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-haters_67/index.html",
+            "Title": "The Haters",
+            "old_price": 27.89,
+            "new_price": 30.65
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/thinking-fast-and-slow_289/index.html",
+            "Title": "Thinking, Fast and Slow",
+            "old_price": 21.14,
+            "new_price": 20.53
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-nicomachean-ethics_75/index.html",
+            "Title": "The Nicomachean Ethics",
+            "old_price": 36.34,
+            "new_price": 37.55
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/vampire-girl-vampire-girl-1_92/index.html",
+            "Title": "Vampire Girl (Vampire Girl #1)",
+            "old_price": 53.82,
+            "new_price": 50.85
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/this-is-your-brain-on-music-the-science-of-a-human-obsession_414/index.html",
+            "Title": "This Is Your Brain on Music: The Science of a Human Obsession",
+            "old_price": 38.4,
+            "new_price": 46.04
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/let-it-out-a-journey-through-journaling_708/index.html",
+            "Title": "Let It Out: A Journey Through Journaling",
+            "old_price": 26.79,
+            "new_price": 22.91
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/unqualified-how-god-uses-broken-people-to-do-big-things_873/index.html",
+            "Title": "(Un)Qualified: How God Uses Broken People to Do Big Things",
+            "old_price": 54.0,
+            "new_price": 53.86
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/kierkegaard-a-christian-missionary-to-christians_527/index.html",
+            "Title": "Kierkegaard: A Christian Missionary to Christians",
+            "old_price": 47.13,
+            "new_price": 51.95
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/thirst_946/index.html",
+            "Title": "Thirst",
+            "old_price": 17.27,
+            "new_price": 19.76
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/sorting-the-beef-from-the-bull-the-science-of-food-fraud-forensics_736/index.html",
+            "Title": "Sorting the Beef from the Bull: The Science of Food Fraud Forensics",
+            "old_price": 44.74,
+            "new_price": 38.53
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-bad-ass-librarians-of-timbuktu-and-their-race-to-save-the-worlds-most-precious-manuscripts_745/index.html",
+            "Title": "The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts",
+            "old_price": 15.77,
+            "new_price": 13.63
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/fruits-basket-vol-6-fruits-basket-6_427/index.html",
+            "Title": "Fruits Basket, Vol. 6 (Fruits Basket #6)",
+            "old_price": 20.96,
+            "new_price": 22.47
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/robin-war_730/index.html",
+            "Title": "Robin War",
+            "old_price": 47.82,
+            "new_price": 49.66
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-gunning-of-america-business-and-the-making-of-american-gun-culture_347/index.html",
+            "Title": "The Gunning of America: Business and the Making of American Gun Culture",
+            "old_price": 16.81,
+            "new_price": 16.04
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/art-ops-vol-1_664/index.html",
+            "Title": "Art Ops Vol. 1",
+            "old_price": 48.8,
+            "new_price": 50.67
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/when-breath-becomes-air_553/index.html",
+            "Title": "When Breath Becomes Air",
+            "old_price": 39.36,
+            "new_price": 38.86
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html",
+            "Title": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+            "old_price": 25.52,
+            "new_price": 22.98
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/buying-in-the-secret-dialogue-between-what-we-buy-and-who-we-are_670/index.html",
+            "Title": "Buying In: The Secret Dialogue Between What We Buy and Who We Are",
+            "old_price": 37.8,
+            "new_price": 38.6
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-immortal-life-of-henrietta-lacks_753/index.html",
+            "Title": "The Immortal Life of Henrietta Lacks",
+            "old_price": 40.67,
+            "new_price": 47.87
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/lila-gilead-3_190/index.html",
+            "Title": "Lila (Gilead #3)",
+            "old_price": 12.47,
+            "new_price": 13.37
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/civilization-and-its-discontents_140/index.html",
+            "Title": "Civilization and Its Discontents",
+            "old_price": 59.95,
+            "new_price": 50.71
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/mrs-houdini_821/index.html",
+            "Title": "Mrs. Houdini",
+            "old_price": 30.25,
+            "new_price": 34.91
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-alien-club_569/index.html",
+            "Title": "The Alien Club",
+            "old_price": 54.4,
+            "new_price": 59.86
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/ayumis-violin_791/index.html",
+            "Title": "Ayumi's Violin",
+            "old_price": 15.48,
+            "new_price": 17.14
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/world-war-z-an-oral-history-of-the-zombie-war_306/index.html",
+            "Title": "World War Z: An Oral History of the Zombie War",
+            "old_price": 21.8,
+            "new_price": 20.41
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/saga-volume-1-saga-collected-editions-1_48/index.html",
+            "Title": "Saga, Volume 1 (Saga (Collected Editions) #1)",
+            "old_price": 28.48,
+            "new_price": 26.13
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/data-a-love-story-how-i-gamed-online-dating-to-meet-my-match_367/index.html",
+            "Title": "Data, A Love Story: How I Gamed Online Dating to Meet My Match",
+            "old_price": 32.35,
+            "new_price": 27.93
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/i-hate-fairyland-vol-1-madly-ever-after-i-hate-fairyland-compilations-1-5_899/index.html",
+            "Title": "I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",
+            "old_price": 29.17,
+            "new_price": 23.37
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/orange-is-the-new-black_202/index.html",
+            "Title": "Orange Is the New Black",
+            "old_price": 24.61,
+            "new_price": 26.8
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-cat-in-the-hat-beginner-books-b-1_235/index.html",
+            "Title": "The Cat in the Hat (Beginner Books B-1)",
+            "old_price": 16.26,
+            "new_price": 17.69
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/security_925/index.html",
+            "Title": "Security",
+            "old_price": 39.25,
+            "new_price": 46.66
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/pride-and-prejudice_437/index.html",
+            "Title": "Pride and Prejudice",
+            "old_price": 19.27,
+            "new_price": 21.29
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/watchmen_579/index.html",
+            "Title": "Watchmen",
+            "old_price": 58.05,
+            "new_price": 58.23
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/better-homes-and-gardens-new-cook-book_423/index.html",
+            "Title": "Better Homes and Gardens New Cook Book",
+            "old_price": 39.61,
+            "new_price": 33.37
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-guns-of-august_254/index.html",
+            "Title": "The Guns of August",
+            "old_price": 14.54,
+            "new_price": 15.27
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/rising-strong_539/index.html",
+            "Title": "Rising Strong",
+            "old_price": 21.82,
+            "new_price": 24.8
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-project_856/index.html",
+            "Title": "The Project",
+            "old_price": 10.65,
+            "new_price": 10.68
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/imperfect-harmony_26/index.html",
+            "Title": "Imperfect Harmony",
+            "old_price": 34.74,
+            "new_price": 30.56
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/myriad-prentor-1_36/index.html",
+            "Title": "Myriad (Prentor #1)",
+            "old_price": 58.75,
+            "new_price": 55.79
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/rat-queens-vol-3-demons-rat-queens-collected-editions-11-15_921/index.html",
+            "Title": "Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",
+            "old_price": 50.4,
+            "new_price": 43.58
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/glory-over-everything-beyond-the-kitchen-house_696/index.html",
+            "Title": "Glory over Everything: Beyond The Kitchen House",
+            "old_price": 45.84,
+            "new_price": 54.16
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/masks-and-shadows_909/index.html",
+            "Title": "Masks and Shadows",
+            "old_price": 56.4,
+            "new_price": 65.93
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/my-mrs-brown_719/index.html",
+            "Title": "My Mrs. Brown",
+            "old_price": 24.48,
+            "new_price": 28.58
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/seven-brief-lessons-on-physics_219/index.html",
+            "Title": "Seven Brief Lessons on Physics",
+            "old_price": 30.6,
+            "new_price": 31.81
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-wild-robot_288/index.html",
+            "Title": "The Wild Robot",
+            "old_price": 56.07,
+            "new_price": 55.81
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/i-am-a-hero-omnibus-volume-1_898/index.html",
+            "Title": "I am a Hero Omnibus Volume 1",
+            "old_price": 54.63,
+            "new_price": 46.15
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/most-blessed-of-the-patriarchs-thomas-jefferson-and-the-empire-of-the-imagination_509/index.html",
+            "Title": "\"Most Blessed of the Patriarchs\": Thomas Jefferson and the Empire of the Imagination",
+            "old_price": 44.48,
+            "new_price": 42.04
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/dark-notes_800/index.html",
+            "Title": "Dark Notes",
+            "old_price": 19.19,
+            "new_price": 22.92
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/mama-tried-traditional-italian-cooking-for-the-screwed-crude-vegan-and-tattooed_908/index.html",
+            "Title": "Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",
+            "old_price": 14.02,
+            "new_price": 15.74
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/fruits-basket-vol-7-fruits-basket-7_468/index.html",
+            "Title": "Fruits Basket, Vol. 7 (Fruits Basket #7)",
+            "old_price": 19.57,
+            "new_price": 17.53
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/when-we-collided_955/index.html",
+            "Title": "When We Collided",
+            "old_price": 31.77,
+            "new_price": 28.48
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/unreasonable-hope-finding-faith-in-the-god-who-brings-purpose-to-your-pain_505/index.html",
+            "Title": "Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain",
+            "old_price": 46.33,
+            "new_price": 47.58
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/grumbles_812/index.html",
+            "Title": "Grumbles",
+            "old_price": 22.16,
+            "new_price": 18.43
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/a-clash-of-kings-a-song-of-ice-and-fire-2_356/index.html",
+            "Title": "A Clash of Kings (A Song of Ice and Fire #2)",
+            "old_price": 10.79,
+            "new_price": 11.79
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/psycho-sanitarium-psycho-15_628/index.html",
+            "Title": "Psycho: Sanitarium (Psycho #1.5)",
+            "old_price": 36.97,
+            "new_price": 41.64
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/living-forward-a-proven-plan-to-stop-drifting-and-get-the-life-you-want_531/index.html",
+            "Title": "Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want",
+            "old_price": 12.55,
+            "new_price": 14.95
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html",
+            "Title": "Chase Me (Paris Nights #2)",
+            "old_price": 25.27,
+            "new_price": 25.6
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/for-the-love-fighting-for-grace-in-a-world-of-impossible-standards_467/index.html",
+            "Title": "For the Love: Fighting for Grace in a World of Impossible Standards",
+            "old_price": 45.13,
+            "new_price": 38.37
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/10-happier-how-i-tamed-the-voice-in-my-head-reduced-stress-without-losing-my-edge-and-found-self-help-that-actually-works_582/index.html",
+            "Title": "10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",
+            "old_price": 24.57,
+            "new_price": 26.14
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/something-blue-darcy-rachel-2_223/index.html",
+            "Title": "Something Blue (Darcy & Rachel #2)",
+            "old_price": 54.62,
+            "new_price": 64.38
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-bane-chronicles-the-bane-chronicles-1-11_746/index.html",
+            "Title": "The Bane Chronicles (The Bane Chronicles #1-11)",
+            "old_price": 44.73,
+            "new_price": 38.74
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/big-little-lies_129/index.html",
+            "Title": "Big Little Lies",
+            "old_price": 22.11,
+            "new_price": 22.35
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html",
+            "Title": "The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",
+            "old_price": 49.05,
+            "new_price": 51.14
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/a-feast-for-crows-a-song-of-ice-and-fire-4_357/index.html",
+            "Title": "A Feast for Crows (A Song of Ice and Fire #4)",
+            "old_price": 17.21,
+            "new_price": 20.41
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/rogue-lawyer-rogue-lawyer-1_214/index.html",
+            "Title": "Rogue Lawyer (Rogue Lawyer #1)",
+            "old_price": 50.11,
+            "new_price": 58.71
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/pop-gun-war-volume-1-gift_918/index.html",
+            "Title": "Pop Gun War, Volume 1: Gift",
+            "old_price": 18.97,
+            "new_price": 20.91
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/angels-walking-angels-walking-1_662/index.html",
+            "Title": "Angels Walking (Angels Walking #1)",
+            "old_price": 34.2,
+            "new_price": 36.8
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-power-greens-cookbook-140-delicious-superfood-recipes_410/index.html",
+            "Title": "The Power Greens Cookbook: 140 Delicious Superfood Recipes",
+            "old_price": 11.05,
+            "new_price": 11.99
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-wedding-pact-the-omalleys-2_767/index.html",
+            "Title": "The Wedding Pact (The O'Malleys #2)",
+            "old_price": 32.61,
+            "new_price": 31.29
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/harry-potter-and-the-sorcerers-stone-harry-potter-1_329/index.html",
+            "Title": "Harry Potter and the Sorcerer's Stone (Harry Potter #1)",
+            "old_price": 13.9,
+            "new_price": 14.85
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/exit-pursued-by-a-bear_591/index.html",
+            "Title": "Exit, Pursued by a Bear",
+            "old_price": 51.34,
+            "new_price": 48.74
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/millers-valley_534/index.html",
+            "Title": "Miller's Valley",
+            "old_price": 58.54,
+            "new_price": 67.9
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/black-dust_976/index.html",
+            "Title": "Black Dust",
+            "old_price": 34.53,
+            "new_price": 33.86
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/amatus_787/index.html",
+            "Title": "Amatus",
+            "old_price": 50.54,
+            "new_price": 45.44
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-jazz-of-physics-the-secret-link-between-music-and-the-structure-of-the-universe_350/index.html",
+            "Title": "The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe",
+            "old_price": 38.71,
+            "new_price": 31.96
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-silent-wife_83/index.html",
+            "Title": "The Silent Wife",
+            "old_price": 12.34,
+            "new_price": 9.98
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-girl-who-kicked-the-hornets-nest-millennium-trilogy-3_248/index.html",
+            "Title": "The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3)",
+            "old_price": 57.48,
+            "new_price": 58.72
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/harry-potter-and-the-half-blood-prince-harry-potter-6_326/index.html",
+            "Title": "Harry Potter and the Half-Blood Prince (Harry Potter #6)",
+            "old_price": 48.75,
+            "new_price": 50.47
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/is-everyone-hanging-out-without-me-and-other-concerns_178/index.html",
+            "Title": "Is Everyone Hanging Out Without Me? (And Other Concerns)",
+            "old_price": 20.11,
+            "new_price": 16.15
+        }
+    ],
+    "removed": [
+        {
+            "URL": "https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html",
+            "Title": "Boar Island (Anna Pigeon #19)"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html",
+            "Title": "Delivering the Truth (Quaker Midwife Mystery #1)"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/in-the-woods-dublin-murder-squad-1_433/index.html",
+            "Title": "In the Woods (Dublin Murder Squad #1)"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/bitch-planet-vol-1-extraordinary-machine-bitch-planet-collected-editions_882/index.html",
+            "Title": "Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/we-are-robin-vol-1-the-vigilante-business-we-are-robin-1_778/index.html",
+            "Title": "We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/batman-europa_668/index.html",
+            "Title": "Batman: Europa"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-demon-prince-of-momochi-house-vol-4-the-demon-prince-of-momochi-house-4_344/index.html",
+            "Title": "The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/bleach-vol-1-strawberry-and-the-soul-reapers-bleach-1_7/index.html",
+            "Title": "Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html",
+            "Title": "We Love You, Charlie Freeman"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/a-man-called-ove_653/index.html",
+            "Title": "A Man Called Ove"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/jurassic-park-jurassic-park-1_180/index.html",
+            "Title": "Jurassic Park (Jurassic Park #1)"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/h-is-for-hawk_102/index.html",
+            "Title": "H is for Hawk"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/mockingjay-the-hunger-games-3_333/index.html",
+            "Title": "Mockingjay (The Hunger Games #3)"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/william-shakespeares-star-wars-verily-a-new-hope-william-shakespeares-star-wars-4_871/index.html",
+            "Title": "William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/good-in-bed-cannie-shapiro-1_469/index.html",
+            "Title": "Good in Bed (Cannie Shapiro #1)"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html",
+            "Title": "Princess Between Worlds (Wide-Awake Princess #5)"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/wild-swans_782/index.html",
+            "Title": "Wild Swans"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/my-kind-of-crazy_718/index.html",
+            "Title": "My Kind of Crazy"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/dont-get-caught_687/index.html",
+            "Title": "Don't Get Caught"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/its-all-easy-healthy-delicious-weeknight-meals-in-under-30-minutes_706/index.html",
+            "Title": "It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes"
+        }
+    ],
+    "new": [
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-1_901/index.html",
+            "Title": "Simulated Book 1",
+            "Category": "Business"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-2_902/index.html",
+            "Title": "Simulated Book 2",
+            "Category": "Business"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-3_903/index.html",
+            "Title": "Simulated Book 3",
+            "Category": "Politics"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-4_904/index.html",
+            "Title": "Simulated Book 4",
+            "Category": "Contemporary"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-5_905/index.html",
+            "Title": "Simulated Book 5",
+            "Category": "Autobiography"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-6_906/index.html",
+            "Title": "Simulated Book 6",
+            "Category": "Business"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-7_907/index.html",
+            "Title": "Simulated Book 7",
+            "Category": "Academic"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-8_908/index.html",
+            "Title": "Simulated Book 8",
+            "Category": "Classics"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-9_909/index.html",
+            "Title": "Simulated Book 9",
+            "Category": "Cultural"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-10_910/index.html",
+            "Title": "Simulated Book 10",
+            "Category": "Classics"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-11_911/index.html",
+            "Title": "Simulated Book 11",
+            "Category": "Fantasy"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-12_912/index.html",
+            "Title": "Simulated Book 12",
+            "Category": "Food and Drink"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-13_913/index.html",
+            "Title": "Simulated Book 13",
+            "Category": "Short Stories"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-14_914/index.html",
+            "Title": "Simulated Book 14",
+            "Category": "Crime"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-15_915/index.html",
+            "Title": "Simulated Book 15",
+            "Category": "Romance"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-16_916/index.html",
+            "Title": "Simulated Book 16",
+            "Category": "Travel"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-17_917/index.html",
+            "Title": "Simulated Book 17",
+            "Category": "Romance"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-18_918/index.html",
+            "Title": "Simulated Book 18",
+            "Category": "Classics"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-19_919/index.html",
+            "Title": "Simulated Book 19",
+            "Category": "Biography"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/simulated-book-20_920/index.html",
+            "Title": "Simulated Book 20",
+            "Category": "Science"
+        }
+    ],
+    "category_changed": [
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-matchmakers-playbook-wingmen-inc-1_850/index.html",
+            "Title": "The Matchmaker's Playbook (Wingmen Inc. #1)",
+            "old_category": "New Adult",
+            "new_category": "Cultural"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-raven-king-the-raven-cycle-4_412/index.html",
+            "Title": "The Raven King (The Raven Cycle #4)",
+            "old_category": "Add a comment",
+            "new_category": "Psychology"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/between-shades-of-gray_128/index.html",
+            "Title": "Between Shades of Gray",
+            "old_category": "Historical Fiction",
+            "new_category": "Christian"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/mr-mercedes-bill-hodges-trilogy-1_717/index.html",
+            "Title": "Mr. Mercedes (Bill Hodges Trilogy #1)",
+            "old_category": "Fiction",
+            "new_category": "Travel"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-nameless-city-the-nameless-city-1_940/index.html",
+            "Title": "The Nameless City (The Nameless City #1)",
+            "old_category": "Sequential Art",
+            "new_category": "Religion"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-e-myth-revisited-why-most-small-businesses-dont-work-and-what-to-do-about-it_545/index.html",
+            "Title": "The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It",
+            "old_category": "Business",
+            "new_category": "Romance"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-cuckoos-calling-cormoran-strike-1_239/index.html",
+            "Title": "The Cuckoo's Calling (Cormoran Strike #1)",
+            "old_category": "Mystery",
+            "new_category": "Parenting"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-hiding-place_406/index.html",
+            "Title": "The Hiding Place",
+            "old_category": "History",
+            "new_category": "Erotica"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/becoming-wise-an-inquiry-into-the-mystery-and-art-of-living_795/index.html",
+            "Title": "Becoming Wise: An Inquiry into the Mystery and Art of Living",
+            "old_category": "Nonfiction",
+            "new_category": "Parenting"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html",
+            "Title": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+            "old_category": "Sequential Art",
+            "new_category": "Mystery"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-fellowship-of-the-ring-the-lord-of-the-rings-1_442/index.html",
+            "Title": "The Fellowship of the Ring (The Lord of the Rings #1)",
+            "old_category": "Default",
+            "new_category": "Crime"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-improbability-of-love_607/index.html",
+            "Title": "The Improbability of Love",
+            "old_category": "Fiction",
+            "new_category": "Business"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/walt-disneys-alice-in-wonderland_777/index.html",
+            "Title": "Walt Disney's Alice in Wonderland",
+            "old_category": "Childrens",
+            "new_category": "Business"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-hidden-oracle-the-trials-of-apollo-1_752/index.html",
+            "Title": "The Hidden Oracle (The Trials of Apollo #1)",
+            "old_category": "Fantasy",
+            "new_category": "Spirituality"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/how-to-speak-golf-an-illustrated-guide-to-links-lingo_621/index.html",
+            "Title": "How to Speak Golf: An Illustrated Guide to Links Lingo",
+            "old_category": "Default",
+            "new_category": "Nonfiction"
+        }
+    ],
+    "availability_changed": [
+        {
+            "URL": "https://books.toscrape.com/catalogue/a-mothers-reckoning-living-in-the-aftermath-of-tragedy_585/index.html",
+            "Title": "A Mother's Reckoning: Living in the Aftermath of Tragedy"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/orchestra-of-exiles-the-story-of-bronislaw-huberman-the-israel-philharmonic-and-the-one-thousand-jews-he-saved-from-nazi-horrors_337/index.html",
+            "Title": "Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/kindle-paperwhite-users-guide_103/index.html",
+            "Title": "Kindle Paperwhite User's Guide"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-rosie-project-don-tillman-1_761/index.html",
+            "Title": "The Rosie Project (Don Tillman #1)"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html",
+            "Title": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/exit-pursued-by-a-bear_591/index.html",
+            "Title": "Exit, Pursued by a Bear"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/voyager-outlander-3_299/index.html",
+            "Title": "Voyager (Outlander #3)"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/city-of-glass-the-mortal-instruments-3_678/index.html",
+            "Title": "City of Glass (The Mortal Instruments #3)"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/the-republic_78/index.html",
+            "Title": "The Republic"
+        },
+        {
+            "URL": "https://books.toscrape.com/catalogue/seven-days-in-the-art-world_220/index.html",
+            "Title": "Seven Days in the Art World"
+        }
+    ]
+}
